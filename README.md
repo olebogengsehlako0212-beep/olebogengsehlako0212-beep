@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Olebogeng 👋
 
-<!--
-**olebogengsehlako0212-beep/olebogengsehlako0212-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCom Statistics and Data Science graduate (University of Pretoria, 2026) based in Johannesburg, South Africa.
 
-Here are some ideas to get you started:
+I work across SQL, Python, and Power BI — building data pipelines, analytical models, and dashboards that turn raw data into decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm working on:**
+- 📊 SQL-based credit risk analysis with Power BI dashboards
+- 🤖 ML pipelines for credit risk and loan default prediction (Logistic Regression, SVM, Random Forest)
+- 📈 Driver-based financial forecasting models
+
+**Tech stack:** Python (Pandas, NumPy, Scikit-Learn) · SQL (SQL Server, Azure SQL) · R · Power BI · Excel
+
+**Currently:** Financial Consultant (Learnership) at Monte Carlos Consulting, looking for a Data Analyst / BI role.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/olebogeng-sehlako-152237275)
