@@ -2,7 +2,7 @@
 
 BCom Statistics and Data Science graduate (University of Pretoria, 2026) based in Johannesburg, South Africa.
 
-I work across SQL, Python, and Power BI — building data pipelines, analytical models, and dashboards that turn raw data into decisions.
+I work across SQL, Python, and Power BI, building data pipelines, analytical models, and dashboards that turn raw data into decisions.
 
 **What I'm working on:**
 - 📊 SQL-based credit risk analysis with Power BI dashboards
